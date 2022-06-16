@@ -16,3 +16,4 @@
 @@||openvellum.ecollege.com^$important,document
 @@||www.pearson.com^$important,document
 @@||portal.mypearson.com^$important,document
+@@||secure.rewardcodes.com^$important,document
