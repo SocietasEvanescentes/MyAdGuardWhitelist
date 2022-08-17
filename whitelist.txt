@@ -18,3 +18,4 @@
 @@||portal.mypearson.com^$important,document
 @@||secure.rewardcodes.com^$important,document
 @@||duckduckgo.com^$important,document
+@@||sponsor.ajay.app^$important,document
