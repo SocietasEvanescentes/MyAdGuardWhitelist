@@ -19,3 +19,6 @@
 @@||secure.rewardcodes.com^$important,document
 @@||duckduckgo.com^$important,document
 @@||sponsor.ajay.app^$important,document
+@@||eis-ncc.wvnet.edu^$important,document
+@@||xenccprod.wvnet.edu^$important,document
+@@||wvncc.textbookx.com^$important,document
