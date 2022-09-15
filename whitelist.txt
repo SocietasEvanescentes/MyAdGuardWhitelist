@@ -22,3 +22,8 @@
 @@||eis-ncc.wvnet.edu^$important,document
 @@||xenccprod.wvnet.edu^$important,document
 @@||wvncc.textbookx.com^$important,document
+@@||eis-ncc.wvnet.edu^$important,document
+@@||mylab.pearson.com^$important,document
+@@||openvellum.ecollege.com^$important,document
+@@||tpi.bb.pearsoncmg.com^$important,document
+@@||wvnet.brightspace.com^$important,document
