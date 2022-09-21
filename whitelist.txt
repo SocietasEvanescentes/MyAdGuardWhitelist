@@ -12,9 +12,9 @@
 @@||wvnet.brightspace.com^$important,document
 @@||languagetool.org^$important,document
 @@||login.pearson.com^$stealth,removeparam,cookie
-@@||tpi.bb.pearsoncmg.com^$important,document
+@@||tpi.bb.pearsoncmg.com^$stealth,removeparam,cookie
 @@||openvellum.ecollege.com^$stealth,removeparam,cookie
-@@||www.pearson.com^$important,document
+@@||www.pearson.com^$stealth,removeparam,cookie
 @@||portal.mypearson.com^$stealth,removeparam,cookie
 @@||secure.rewardcodes.com^$important,document
 @@||duckduckgo.com^$important,document
