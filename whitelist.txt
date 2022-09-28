@@ -23,3 +23,5 @@
 @@||xenccprod.wvnet.edu^$stealth
 @@||wvncc.textbookx.com^$stealth
 @@||mylab.pearson.com^$stealth
+@@||https://sponsor.ajay.app^$stealth
+@@||sponsor.ajay.app^$stealth
