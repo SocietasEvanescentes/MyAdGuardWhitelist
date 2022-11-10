@@ -24,4 +24,5 @@
 @@||wvncc.textbookx.com^$stealth
 @@||mylab.pearson.com^$stealth
 @@||https://sponsor.ajay.app^$stealth
-@@||sponsor.ajay.app^$stealth
+@@||https://sponsorblock.kavin.rocks^$stealth
+@@||sponsorblock.kavin.rocks^$stealth
