@@ -36,3 +36,4 @@
 @@||www.incoming.telemetry.mozilla.org^$important
 @@||www.telemetry-experiment.cdn.mozilla.net^$important
 @@||telemetry.mozilla.org^$important
+@@34.120.208.123^$network
