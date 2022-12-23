@@ -28,6 +28,8 @@
 @@||sponsorblock.kavin.rocks^$stealth
 @@||onenote.com^$stealth
 @@||voice.google.com^$stealth
+@@||v.redd.it^$stealth
+
 
 
 ! Whitelisted for specific reasons
