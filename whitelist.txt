@@ -3,7 +3,7 @@
 @@||www.goodreads.com^$important,document
 @@||www.etsy.com^$important,document
 @@||medium.com^$important,document
-@@||www.joinhoney.com^$important,document
+@@||www.joinhoney.com^$important,document,stealth
 @@||read.amazon.com^$important,document
 @@||www.apple.com^$important,document
 @@||www.ups.com^$important,document
