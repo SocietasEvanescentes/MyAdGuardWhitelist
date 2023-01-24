@@ -1,18 +1,14 @@
 ! Title: MyAdGuardWhitelist
 
 
-
+! Whitelisted for DNS or Network Reasons
 
 @@||office.live.com^$important,document
-@@||mychart.minuteclinic.com^$important,document
 @@||www.goodreads.com^$important,document
-@@||www.etsy.com^$important,document
 @@||medium.com^$important,document
 @@||www.joinhoney.com^$important,document,stealth
 @@||read.amazon.com^$important,document
 @@||www.apple.com^$important,document
-@@||www.ups.com^$important,document
-@@||www.ebay.com^$important,document
 @@||portal.wvncc.edu^$important,document
 @@||wvnet.brightspace.com^$important,document
 @@||languagetool.org^$important,document
@@ -34,7 +30,7 @@
 @@||onenote.com^$stealth
 @@||voice.google.com^$stealth
 @@||v.redd.it^$stealth
-
+@@||music.amazon.com^$important,document,stealth
 
 
 ! Whitelisted for specific reasons
