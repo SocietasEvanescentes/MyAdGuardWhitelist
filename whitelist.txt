@@ -3,10 +3,7 @@
 
 ! Whitelisted for DNS or Network Reasons
 
-@@||office.live.com^$important,document
-@@||www.goodreads.com^$important,document
-@@||medium.com^$important,document
-@@||www.joinhoney.com^$important,document,stealth
+
 @@||read.amazon.com^$important,document
 @@||www.apple.com^$important,document
 @@||portal.wvncc.edu^$important,document
@@ -34,12 +31,7 @@
 
 
 ! Whitelisted for specific reasons
-
-! Mozilla (For Mozilla Rally addon)
-@@||www.incoming.telemetry.mozilla.org^$important
-@@||www.telemetry-experiment.cdn.mozilla.net^$important
-@@||telemetry.mozilla.org^$important
-@@34.120.208.123^$network
+@@||challenges.cloudflare.com^$important,stealth
 
 ! Microsoft SmartScreen and API
 @@||smartscreen.microsoft.com^$important,stealth
