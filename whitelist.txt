@@ -32,6 +32,8 @@
 
 ! Whitelisted for specific reasons
 @@||challenges.cloudflare.com^$important,stealth
+@@||openai.com^$important,stealth
+@@||chat.openai.com^$important,stealth
 
 ! Microsoft SmartScreen and API
 @@||smartscreen.microsoft.com^$important,stealth
