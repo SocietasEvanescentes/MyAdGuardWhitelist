@@ -28,6 +28,10 @@
 @@||voice.google.com^$stealth
 @@||v.redd.it^$stealth
 @@||music.amazon.com^$important,document,stealth
+@@||duo.google.com^$important,stealth
+@@||meet.google.com^$important,stealth
+@@||hangouts.google.com^$important,stealth
+@@||facetime.apple.com^$important,stealth
 
 
 ! Whitelisted for specific reasons
