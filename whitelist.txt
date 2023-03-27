@@ -32,6 +32,12 @@
 @@||meet.google.com^$important,stealth
 @@||hangouts.google.com^$important,stealth
 @@||facetime.apple.com^$important,stealth
+@@||mask.icloud.com^$important,stealth
+@@||mask-h2.icloud.com^$important,stealth
+@@||mask.apple-dns.net^$important,stealth
+@@||mask-api.fe.apple-dns.net^$important,stealth
+@@||mask-t.apple-dns.net^$important,stealth
+@@||doh.dns.apple.com^$important,stealth
 
 
 ! Whitelisted for specific reasons
