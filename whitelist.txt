@@ -15,7 +15,6 @@
 @@||www.pearson.com^$stealth
 @@||portal.mypearson.com^$stealth
 @@||secure.rewardcodes.com^$important,document
-@@||duckduckgo.com^$important,document
 @@||sponsor.ajay.app^$stealth
 @@||eis-ncc.wvnet.edu^$stealth
 @@||xenccprod.wvnet.edu^$stealth
