@@ -43,6 +43,7 @@
 @@||challenges.cloudflare.com^$important,stealth
 @@||openai.com^$important,stealth
 @@||chat.openai.com^$important,stealth
+@@||qualtrics.com^$important,stealth
 
 ! Microsoft SmartScreen and API
 @@||smartscreen.microsoft.com^$important,stealth
