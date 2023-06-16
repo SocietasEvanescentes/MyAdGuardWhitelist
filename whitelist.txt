@@ -1,4 +1,6 @@
-! Title: MyAdGuardWhitelist
+! Title: ⬜ My Personal Adguard Whitelist
+! Version: 2023
+! Expires: 5 days
 
 
 ! Whitelisted for DNS or Network Reasons
