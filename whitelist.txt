@@ -5,7 +5,7 @@
 
 ! Whitelisted for DNS or Network Reasons
 
-
+@@||lemmy.world^$important,document,stealth
 @@||read.amazon.com^$important,document
 @@||www.apple.com^$important,document
 @@||portal.wvncc.edu^$important,document
