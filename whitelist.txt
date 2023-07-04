@@ -47,6 +47,7 @@
 @@||chat.openai.com^$important,stealth
 @@||qualtrics.com^$important,stealth
 @@||fedex.com^$important
+@@||wefwef.app^$important,document,stealth
 
 ! Microsoft SmartScreen and API
 @@||smartscreen.microsoft.com^$important,stealth
