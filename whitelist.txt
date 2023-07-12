@@ -48,6 +48,7 @@
 @@||qualtrics.com^$important,stealth
 @@||fedex.com^$important
 @@||wefwef.app^$important,document,stealth
+@@||gog.com^$important,stealth
 
 ! For some reason, macOSIcons.com won't work when adguard is enabled? This is an attempt to fix this. This will leave it up to the browser for adblocking.
 @@||macosicons.com^$important,stealth
