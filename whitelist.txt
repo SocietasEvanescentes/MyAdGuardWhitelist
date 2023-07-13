@@ -1,5 +1,5 @@
 ! Title: ⬜ My Personal Adguard Whitelist
-! Version: 6.7.2023
+! Version: 12.7.2023
 ! Expires: 1 Day
 
 
