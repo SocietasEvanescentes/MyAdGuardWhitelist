@@ -26,7 +26,7 @@
 @@||https://sponsorblock.kavin.rocks^$stealth
 @@||sponsorblock.kavin.rocks^$stealth
 @@||onenote.com^$stealth
-@@||voice.google.com^$stealth
+@@||voice.google.com^$stealth,important,document
 @@||v.redd.it^$stealth
 @@||music.amazon.com^$important,document,stealth
 @@||duo.google.com^$important,stealth
