@@ -1,5 +1,5 @@
 ! Title: ⬜ My Personal Adguard Whitelist
-! Version: 12.7.2023
+! Version: 27.9.2023
 ! Expires: 1 Day
 
 
@@ -49,6 +49,7 @@
 @@||fedex.com^$important
 @@||wefwef.app^$important,document,stealth
 @@||gog.com^$important,stealth
+@@||app.prolific.com/studies^$important,stealth
 
 ! For some reason, macOSIcons.com won't work when adguard is enabled? This is an attempt to fix this. This will leave it up to the browser for adblocking.
 @@||macosicons.com^$important,stealth
