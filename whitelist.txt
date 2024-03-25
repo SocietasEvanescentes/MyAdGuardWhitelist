@@ -1,5 +1,5 @@
 ! Title: ⬜ My Personal Adguard Whitelist
-! Version: 21th Jan 2024
+! Version: 25th Mar 2024
 ! Expires: 1 Day
 
 
@@ -39,6 +39,7 @@
 @@||mask-api.fe.apple-dns.net^$important,stealth
 @@||mask-t.apple-dns.net^$important,stealth
 @@||doh.dns.apple.com^$important,stealth
+@@||linkaccount.cider.sh^$important,stealth
 
 
 ! Whitelisted for specific reasons
