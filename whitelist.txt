@@ -1,5 +1,5 @@
 ! Title: ⬜ My Personal Adguard Whitelist
-! Version: 25th Mar 2024
+! Version: 1st Aug 2024
 ! Expires: 1 Day
 
 
@@ -52,6 +52,7 @@
 @@||visit.doximity.com^$important,document
 @@||auth.tampermonkey.net^$important,stealth
 @@||web.archive.org^$important,stealth
+@@||web.snapchat.com^$important,document,stealth
 ! For some reason, macOSIcons.com won't work when adguard is enabled? This is an attempt to fix this. This will leave it up to the browser for adblocking.
 @@||macosicons.com^$important,stealth
 ! Microsoft SmartScreen and API
