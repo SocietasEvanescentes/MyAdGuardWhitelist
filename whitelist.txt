@@ -29,6 +29,7 @@
 @@||mask-t.apple-dns.net^$important,stealth
 @@||doh.dns.apple.com^$important,stealth
 @@||linkaccount.cider.sh^$important,stealth
+@@||raw.githubusercontent.com^$important,stealth
 
 
 ! Whitelisted for specific reasons
