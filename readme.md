@@ -1,5 +1,6 @@
 
-![romanbreak](https://github.com/SocietasEvanescentes/MyAdGuardWhitelist/assets/25782090/1cb29577-c741-4a24-96d3-f9d38ef6265f)
+
+![icons8-cloud-firewall-96](https://github.com/user-attachments/assets/f64d3625-7cc7-45d9-9089-5bc172926de3)
 
 
 
