@@ -1,49 +1,19 @@
 ! Title: ⬜ My Personal Adguard Whitelist
-! Version: 22nd Dec 2024
+! Version: 25th Feb 2026
 ! Expires: 1 Day
 
 
-! Whitelisted for DNS or Network Reasons
+! Whitelisted for Network Reasons
 
-@@||lemmy.world^$important,document,stealth
-@@||read.amazon.com^$important,document
-@@||www.apple.com^$important,document
-@@||languagetool.org^$important,document
-@@||secure.rewardcodes.com^$important,document
 @@||sponsor.ajay.app^$stealth
 @@||sponsor.ajay.app^$stealth
 @@||sponsorblock.kavin.rocks^$stealth
 @@||sponsorblock.kavin.rocks^$stealth
-@@||onenote.com^$stealth
-@@||voice.google.com^$stealth,important,document
-@@||v.redd.it^$stealth
-@@||music.amazon.com^$important,document,stealth
-@@||duo.google.com^$important,stealth
-@@||meet.google.com^$important,stealth
-@@||hangouts.google.com^$important,stealth
-@@||facetime.apple.com^$important,stealth
-@@||mask.icloud.com^$important,stealth
-@@||mask-h2.icloud.com^$important,stealth
-@@||mask.apple-dns.net^$important,stealth
-@@||mask-api.fe.apple-dns.net^$important,stealth
-@@||mask-t.apple-dns.net^$important,stealth
-@@||doh.dns.apple.com^$important,stealth
-@@||linkaccount.cider.sh^$important,stealth
-@@||raw.githubusercontent.com^$important,stealth
 
-
-! Whitelisted for specific reasons
+Whitelisted for specific reasons
 @@||challenges.cloudflare.com^$important,stealth
-@@||openai.com^$important,stealth
-@@||chat.openai.com^$important,stealth
-@@||qualtrics.com^$important,stealth
-@@||gog.com^$important,stealth
 @@||app.prolific.com^$important,stealth
-@@||visit.doximity.com^$important,document
-@@||auth.tampermonkey.net^$important,stealth
-@@||web.archive.org^$important,stealth
-@@||web.snapchat.com^$important,document,stealth
-! For some reason, macOSIcons.com won't work when adguard is enabled? This is an attempt to fix this. This will leave it up to the browser for adblocking.
-@@||macosicons.com^$important,stealth
+
+
 ! Microsoft SmartScreen and API
 @@||smartscreen.microsoft.com^$important,stealth
