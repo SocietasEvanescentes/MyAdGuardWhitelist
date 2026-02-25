@@ -9,6 +9,8 @@
 @@||sponsor.ajay.app^$stealth
 @@||sponsorblock.kavin.rocks^$stealth
 @@||sponsorblock.kavin.rocks^$stealth
+@@||gemini.google.com^
+
 
 Whitelisted for specific reasons
 @@||challenges.cloudflare.com^$important,stealth
