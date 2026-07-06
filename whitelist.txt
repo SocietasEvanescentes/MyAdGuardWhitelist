@@ -10,6 +10,7 @@
 @@||sponsorblock.kavin.rocks^$stealth
 @@||sponsorblock.kavin.rocks^$stealth
 @@||gemini.google.com^
+@@||mask.icloud.com^$important
 
 
 Whitelisted for specific reasons
